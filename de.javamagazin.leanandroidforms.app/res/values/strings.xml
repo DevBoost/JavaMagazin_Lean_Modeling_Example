@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">LeanAndroidForms</string>
+<string name="action_settings">Settings</string>
+<string name="text0">Lean Android Form</string>
+<string name="text_yesplease">Yes, please!</string>
+<string name="text1">Please select one of the following:</string>
+<string name="text2">Hamburger</string>
+<string name="text3">Cheeseburger</string>
+<string name="text4">Garden Salad</string>
+<string name="text5">Would you like french fries with that?</string>
+<string name="text6">Do you collect bonus points?</string>
+<string name="text7">Your email address:</string>
+</resources>

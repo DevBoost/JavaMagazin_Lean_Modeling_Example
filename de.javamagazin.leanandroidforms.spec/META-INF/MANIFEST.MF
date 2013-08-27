@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Spec
+Bundle-SymbolicName: de.javamagazin.leanandroidforms.spec
+Bundle-Version: 1.0.0.qualifier
+Export-Package: de.javamagazin.leanandroidforms.spec,
+ de.javamagazin.leanandroidforms.spec.codegen,
+ de.javamagazin.leanandroidforms.spec.elements
+Require-Bundle: de.devboost.natspec.annotations
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
