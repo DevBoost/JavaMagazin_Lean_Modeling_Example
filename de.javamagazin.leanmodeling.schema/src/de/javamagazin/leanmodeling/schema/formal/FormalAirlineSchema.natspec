@@ -1,0 +1,11 @@
+There is a table Airplane.
+Every Airplane has a type which is a textual property.
+Every Airplane has a seat count which is a numeric property.
+
+There is a table Passenger.
+Every Passenger has a name which is a textual property.
+Every Passenger has a date of birth which is a date property.
+
+There is a table Flight.
+Every Flight has an airplane type which refers to table Airplane.
+

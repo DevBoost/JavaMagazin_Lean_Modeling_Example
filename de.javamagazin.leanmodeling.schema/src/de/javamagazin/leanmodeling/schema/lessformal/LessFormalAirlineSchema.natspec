@@ -1,0 +1,10 @@
+An airplane is a transportation vehicle.
+Every airplane has a type.
+It also has a seat count.
+
+A passenger is a person who uses airline services.
+Every passenger has a name.
+He also has a date of birth.
+
+A flight is a travel service provided by an airline.
+Every flight has an airplane type.
